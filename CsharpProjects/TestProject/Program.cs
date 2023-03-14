@@ -18,7 +18,6 @@ public static void DiceRoll()
         Console.WriteLine($"Third roll: {roll3}");
     }
 
-    
+    //test to see if I cna update git
 }
 
-//test to see if I cna update git
