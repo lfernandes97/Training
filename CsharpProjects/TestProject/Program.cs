@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         DiceRoll();
+        Console.WriteLine("hello");
     
     }
 
@@ -19,5 +20,7 @@ public static void DiceRoll()
     }
 
     //test to see if I cna update git
+
+    
 }
 
