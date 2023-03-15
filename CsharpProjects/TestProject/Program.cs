@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         DiceRoll();
-        Console.WriteLine("hello");
+        Console.WriteLine("hello again");
     
     }
 
