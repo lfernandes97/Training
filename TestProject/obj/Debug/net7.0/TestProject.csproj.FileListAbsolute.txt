@@ -1,0 +1,15 @@
+C:\Leo Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Leo Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Leo Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Leo Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Leo Projects\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.AssemblyReference.cache
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Leo Projects\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
